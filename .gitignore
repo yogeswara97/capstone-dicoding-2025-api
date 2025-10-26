@@ -14,6 +14,7 @@ __pycache__/
 # Penting: File ini harus ditambahkan secara spesifik sesuai permintaan
 my_model.h5
 model_vgg16_finetuned.keras
+model_vgg16_finetuned.h5
 
 # Logs and Database
 *.log
