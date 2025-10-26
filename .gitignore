@@ -1,0 +1,25 @@
+# Python Virtual Environment
+# Direktori untuk virtual environment
+venv/
+
+# Cache Python
+# File dan direktori yang dibuat oleh interpreter Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Model Machine Learning Files
+# Model Keras/TensorFlow yang berukuran besar
+# Penting: File ini harus ditambahkan secara spesifik sesuai permintaan
+my_model.h5
+model_vgg16_finetuned.keras
+
+# Logs and Database
+*.log
+*.sqlite3
+
+# Operating System generated files
+# File yang dibuat oleh OS seperti macOS atau Windows
+.DS_Store
+Thumbs.db
